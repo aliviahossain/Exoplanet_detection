@@ -1,0 +1,111 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+conda-env/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+*.sublime-project
+*.sublime-workspace
+
+# Data files (raw and intermediate - generated at runtime)
+data/raw/**
+data/processed/**
+!data/.gitkeep
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Model files (large, generated during training)
+models/**
+!models/.gitkeep
+*.pkl
+*.joblib
+*.h5
+*.pth
+*.pt
+*.onnx
+*checkpoint*
+*.model
+
+# Generated outputs and artifacts
+outputs/plots/**
+outputs/*.png
+outputs/*.jpg
+outputs/*.csv
+outputs/*.json
+!outputs/.gitkeep
+!outputs/plots/.gitkeep
+
+# Notebook outputs and execution artifacts
+*.ipynb_checkpoints
+*/.ipynb_checkpoints/
+.ipykernel_launcher.py
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+.cache/
+
+# OS-specific
+.DS_Store
+.AppleDouble
+.LSOverride
+*.lnk
+
+# Project-specific
+.pytest_cache/
+htmlcov/
+.coverage
+.tox/
