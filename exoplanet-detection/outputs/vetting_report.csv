@@ -1,0 +1,15 @@
+tic_id,snr_check_pass,odd_even_check_pass,secondary_eclipse_check_pass,transit_shape_check_pass,vetting_score,rule_based_verdict
+149603524,False,True,True,True,3/4,weak_candidate
+229742722,False,True,True,True,3/4,weak_candidate
+237201858,False,True,True,True,3/4,weak_candidate
+260647166,True,True,True,True,4/4,strong_candidate
+261136641,False,True,True,True,3/4,weak_candidate
+261136679,True,True,True,True,4/4,strong_candidate
+261136765,False,True,True,True,3/4,weak_candidate
+261139167,False,True,True,True,3/4,weak_candidate
+261155555,True,True,True,True,4/4,strong_candidate
+271893367,True,True,True,True,4/4,strong_candidate
+279741379,True,True,True,True,4/4,strong_candidate
+350618622,False,True,True,True,3/4,weak_candidate
+441075486,True,True,True,True,4/4,strong_candidate
+55525572,True,True,True,True,4/4,strong_candidate

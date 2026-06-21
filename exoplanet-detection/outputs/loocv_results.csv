@@ -1,0 +1,16 @@
+tic_id,true_label,rf_pred,xgb_pred
+261136679,planet,planet,planet
+238004786,planet,planet,planet
+307210830,planet,planet,planet
+394137592,planet,planet,planet
+460205581,planet,planet,planet
+25155310,planet,planet,planet
+29857954,planet,planet,planet
+55525572,planet,planet,planet
+259377017,planet,planet,eclipsing_binary
+149603524,planet,planet,planet
+229804573,eclipsing_binary,eclipsing_binary,planet
+142087638,eclipsing_binary,planet,planet
+219016883,eclipsing_binary,planet,planet
+284925600,eclipsing_binary,eclipsing_binary,eclipsing_binary
+120896927,eclipsing_binary,planet,planet
