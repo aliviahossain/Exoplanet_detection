@@ -1,0 +1,15 @@
+tic_id,predicted_label,confidence,tier,prob_eclipsing_binary,prob_planet
+261136641,planet,0.735,moderate_confidence,0.265,0.735
+350618622,planet,0.71,moderate_confidence,0.29,0.71
+229742722,planet,0.69,moderate_confidence,0.31,0.69
+261136679,planet,0.66,moderate_confidence,0.34,0.66
+261139167,planet,0.635,moderate_confidence,0.365,0.635
+237201858,planet,0.63,moderate_confidence,0.37,0.63
+279741379,eclipsing_binary,0.605,moderate_confidence,0.605,0.395
+441075486,planet,0.6,moderate_confidence,0.4,0.6
+271893367,eclipsing_binary,0.595,needs_follow_up,0.595,0.405
+149603524,planet,0.595,needs_follow_up,0.405,0.595
+261155555,planet,0.555,needs_follow_up,0.445,0.555
+261136765,planet,0.53,needs_follow_up,0.47,0.53
+55525572,planet,0.525,needs_follow_up,0.475,0.525
+260647166,planet,0.515,needs_follow_up,0.485,0.515
